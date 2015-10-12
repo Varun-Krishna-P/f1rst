@@ -269,7 +269,8 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 }
 .templatemo-line-header {
-    margin-top:100px;
+    /*margin-top:100px;*/
+    margin-top: 0px;
     margin-bottom:80px;
 }
 
@@ -726,4 +727,7 @@ ul.templatemo-project-gallery  li  a img:hover {
 	 .team_hr {
 		width: 11%;
 	}
+}
+.text-justify{
+    text-align: justify;
 }
